@@ -7,5 +7,7 @@
 #### Nearly two decades later, I find myself revisiting and refining my skills, reflecting on a journey that started with humble beginnings. Despite the proliferation of user-friendly platforms, I am surprised to discover that there still exists a niche for developers. Currently, I am starting my coding voyage from ~~scratch~~ experience, aiming for a longevity comparable to achieving fluency in a language like Spanish or French. This narrative encapsulates my story, and I invite you to join me on this evolving journey. Thank you for being a part of the ride!  Find more about this bootcamp below:
 # 
 # Projects
-https://www.appbrewery.co/p/web-development-course-resources
-* Project 0: Using HTML to create a simple CV - 
+https://www.appbrewery.co/p/web-development-course-resources  
+
+**Section 1 - 4 HTML**  
+* Project 0: Using HTML to create a simple CV - https://hues4x.github.io/CV/
