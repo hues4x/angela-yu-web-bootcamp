@@ -15,3 +15,6 @@ https://www.appbrewery.co/p/web-development-course-resources
 **Section 5-13 (CSS / FLEXBOX / GRID / BOOTSTRAP)**
 * Capstone Project 2: With HTML & CSS only, create a personal site - https://capstone-project-2-eight.vercel.app/
 # 
+**Section 14-17 (JAVASCRIPT / DOM / DICE GAME)**
+* BOSS LEVEL CHALLENGE 1: Using only intermediate JS and what we've learned about the DOM in previous lessons, create a dice game. - https://dice-game-js-mu.vercel.app/
+# 
